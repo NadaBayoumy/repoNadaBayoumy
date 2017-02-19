@@ -1,0 +1,2 @@
+hi from file three
+line one
